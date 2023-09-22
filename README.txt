@@ -6,7 +6,7 @@ Student: Jose Lo Huang
 1. Introduction
 ##################################
 
-This code is designed to create a grouop of EC2 instances and
+This code is designed to create a group of EC2 instances and
 install Apache2 on them.
 
 ##################################
